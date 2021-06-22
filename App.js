@@ -10,7 +10,7 @@ class App extends Component {
     return (
       <View style={styles.container}>
         <ImageBackground
-          source={require("./assets/wheel.png")}
+          source={require("./wheel.png")}
           resizeMode="cover"
           style={styles.backdrop}
         >
